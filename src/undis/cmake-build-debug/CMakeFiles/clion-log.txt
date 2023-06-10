@@ -1,0 +1,4 @@
+"D:\soft\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/soft/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S "D:\ros_race\yangyi cources\c++\undis" -B "D:\ros_race\yangyi cources\c++\undis\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ros_race/yangyi cources/c++/undis/cmake-build-debug
